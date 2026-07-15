@@ -1,2 +1,7 @@
 include:
-  - HW_DB.json
+  - "*.json"
+  - "HW_DB.json"
+
+plugins: []
+
+exclude: []
